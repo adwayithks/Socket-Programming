@@ -1,4 +1,6 @@
 # simplex-chat-app
 Simple client-server messaging application using socket programming
 
-![image](https://github.com/adwayithks/simplex-chat-app/assets/132866560/04c0dab9-654c-48ff-9d1a-c3e901b8b5aa)
+![WhatsApp Image 2024-03-31 at 5 34 54 PM](https://github.com/adwayithks/simplex-chat-app/assets/132866560/df29bf3e-b588-4e67-a6f8-fc77d1091445)
+
+
